@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "177350986246",
+    "project_id": "postresapp-1f22d",
+    "storage_bucket": "postresapp-1f22d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:177350986246:android:81f3e1c239ae2941081187",
+        "android_client_info": {
+          "package_name": "com.PostresApp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbUOknVe4U8nE2dF4-GeRwms_REjyEZpw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:177350986246:android:ede819d7556bd999081187",
+        "android_client_info": {
+          "package_name": "com.postresapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbUOknVe4U8nE2dF4-GeRwms_REjyEZpw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
